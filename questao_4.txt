@@ -1,0 +1,13 @@
+Preciso diferenciar as 3 lâmpadas:
+
+1 - ligo o 1º interruptor, espero alguns minutos e desligo.
+2 - ligo o 2º interruptor.
+3 - vou até a 1º sala das lâmpadas, se estiver quente é do 1º interruptor, se estiver ligada é do 2º, se estiver desligada é do 3º.
+portanto, descobri uma das ligações.
+4 - vou até a 2º sala das lâmpadas e verifico o estado da lâmpada, por ex:
+supondo que a 1º lâmpada estava ligada e essa está desligada e fria, essa é a lâmpada do interruptor 3, que não liguei, logo a 
+ordem seria a seguinte:
+
+lâmpada 1 - 2º interruptor
+lâmpada 2 - 3º interruptor
+lâmpada 3 - 1º interruptor
